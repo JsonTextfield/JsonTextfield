@@ -1,4 +1,9 @@
-### Hi there 👋
+## JsonTextfield (Jason Bromfield)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsontextfield&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsontextfield&show_icons=true&theme=dark)
 
 <!--
 **JsonTextfield/JsonTextfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
