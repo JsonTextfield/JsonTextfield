@@ -1,6 +1,11 @@
 ## JsonTextfield (Jason Bromfield)
 
+🎵 Music lover and basketball fan. 🏀\
+I mostly develop Android and Flutter apps these days.
 
+<br/>
+
+### Take that for data
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsontextfield&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsontextfield&show_icons=true&theme=dark)
