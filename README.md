@@ -16,7 +16,7 @@ ___  /  /  /__/_  /   /   /  /\  \ /  /
 
 ```
 
-🎵 Music lover and basketball fan. 🏀\
+🎵 Music lover and Raptors fan. 🏀\
 I mostly develop Android and Flutter apps these days.
 
 <br/>
